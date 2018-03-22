@@ -1,4 +1,9 @@
 # Network-Programming
+<p>Basic = simple UDP python client server</p>
+<p>UDP-PyCalculator = UDP client/server request calculations</p>
+<p>TODO: Network sniffer</p>
+
+
 <pre>
 <a href="https://tools.ietf.org/html/rfc791">RFC 791:</a>
 3.1.  Internet Header Format
