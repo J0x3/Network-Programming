@@ -1,4 +1,4 @@
-#UDP-PyCalculator
+<h1>UDP-PyCalculator</h1>
 
 <ul>
 	<li>Server waits for data</li>
@@ -9,17 +9,17 @@
 	<li>Server loops</li>
 </ul>
 <p>Networking information is stored in separate file "networkInfo.py"</p>
-<p>You must edit the data in your file in order for the client to function</p>
+<p>! - You must edit the data in your file in order for the client to function</p>
 
 <pre>
 	LHOST_IP = "" 
 	RHOST_IP = ""
 </pre>
 
-<p>You must add the IP address of client in "" for LHOST_IP</p>
-<p>You must add the IP address server in "" for RHOST_IP</p>
+<p>- You must add the IP address of client in LHOST_IP</p>
+<p>- You must add the IP address server in RHOST_IP</p>
 
-<ul>TODO:
+<ul><b>TODO:</b>
 	<li>Workout bugs in network wait time and time outs</li>
 	<li>Implement server/client to be able to resume lost connections</li>
 	<li>TBD</li>
